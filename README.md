@@ -5,4 +5,4 @@
 - Extract the longtitude and lattidude of each city
 - Using pyplot API to plot cities 
 - The bigger city has bigger scatter plot on the map
-Used: Pandas, Matplotlib, Python
+- Used: Pandas, Matplotlib, Python
